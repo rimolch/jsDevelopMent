@@ -7,5 +7,6 @@ var person2 = {
           lastName:" Doe ",
       };
    var Calling = person1.fullName.call(person2);//Calling first and lastName from person2
+//you can also use apply() instead of call 
    console.log(Calling);
     
