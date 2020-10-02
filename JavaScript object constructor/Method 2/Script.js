@@ -8,4 +8,4 @@ return this.firstName + " " + this.lastName ;
 };
 }
 var myFather = new person2("Kamini","Ronjon",55,"blue");
-console.log(" My father name is " + myFather.name());
+console.log(" My father name is " + myFather.name());//returns My father name is Kamini Ronjon
