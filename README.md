@@ -1,3 +1,3 @@
 # JsDeVlopMent
-#🌚🌚
-<h1>this repository contains a couple of methods</h1>
+    Hola! 🌚 🌚
+<h1>This repository contains a couple of methods</h1>
