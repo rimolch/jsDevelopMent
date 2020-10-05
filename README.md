@@ -1,7 +1,10 @@
 # JsDeVlopMent
     Hola! 🌚 🌚
     ** It contains **
-     Item 1* Item 2  * Item 2a  * Item 2b
+     *Item 1 
+     *Item 2  
+       *Item 2a 
+       * Item 2b
     
 <h1>This repository contains a couple of methods</h1>
 
