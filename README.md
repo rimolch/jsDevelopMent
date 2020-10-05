@@ -4,7 +4,7 @@
     
 - [x] this is a complete item
 - [ ] this is an incomplete item
-- [x] #refs, [links](https://github.com/rimolch/JsDeVelopMent), **formatting**, and <del>tags</del> supported
+- [x] #refs, [Click here](https://github.com/rimolch), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
       
        
