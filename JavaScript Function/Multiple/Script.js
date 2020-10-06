@@ -16,3 +16,9 @@ console.log(x(6,7));//returns 42
 // method 3
 var myFunction = new Function("v","t","return s = v * t ");
 console.log(myFunction(300,8));// returns 2400
+
+// method 4 
+var myFunction = function(a,b){
+  return a * b;
+  }
+console.log(myFunction (5,10));//returns 50
